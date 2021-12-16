@@ -1,5 +1,17 @@
 ## Abstract
 
+Two subjects are consistently banned at family gatherings, politics and religion. This is because ~~everyone else is wrong~~ many of us feel very strongly about those matters, generally because we are directly affected or have a lot of self-esteem riding on "being right". 
+
+## Methods
+
+
+
+## The tone of discourse
+
+
+## What's the matter ?
+
+
 ## Ugly markdown example
 
 You can use the [editor on GitHub](https://github.com/antebachmann/datastory/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
