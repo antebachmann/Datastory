@@ -1,10 +1,17 @@
 ## Abstract
 
-Two subjects are consistently banned at family gatherings, politics and religion. This is because ~~everyone else is wrong~~ many of us feel very strongly about those matters, generally because we are directly affected or have a lot of self-esteem riding on "being right". 
+Two subjects are consistently banned at family gatherings, politics and religion. This is because ~~everyone else is wrong~~ many of us feel very strongly about those matters, generally because we are directly affected or have a lot of self-esteem riding on "being right".
+
+As with anything so widely cared about, we generate an almost endless amount of political discourse, and everyone, no matter their qualifications, wants to express themselves. There is so much political discourse that we can often hear people commenting on the discourse itself rather than the politics it conveys, this is what we want to study here.
+
+
+**How emotionally do we express our politics, and is it affected by our proximity to them?** Is the question we aim to answer.
 
 ## Methods
 
+In our data story we focus on **sentiment analysis by matter and social group**.
 
+We wish to test our hypothesis 
 
 ## The tone of discourse
 
