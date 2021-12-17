@@ -66,21 +66,21 @@ This raises an important point, our work is not an evaluation of opinions, but o
 As noted above, each topic tends to have their own level of emotionality, but therein a new question arises, are we all as emotional, or does that depend on our proximity to the matter? It seems obvious to us that germans, having no guns, would hardly care about gun control, while women, often given the short end of the stick and usually the beneficiaries of abortion, might be more sensitive to those issues.
 
 
-![Figure 2: sentiment by gender](/images/fig2.png)
+![Figure 2: sentiment by gender](/images/fig2.jpeg)
 
 Looking at a gender distribution of emotions, we note that three subjects are similar, with women being slightly less neutral every time, but not by much. The interesting thing here is the jump in negativity on the gender equality issue. This is interesting, as we see that neither matter nor social group is a good predictor alone, **some groups are especially sensitive on some issues.**
 
 Another grouping one might be tempted to use is nationality, but this falls a little short, as we would need to operate over multiple languages with datasets obtained through similar methodologies to make a fair international assessment. Yet, there is an angle of analysis we can consider and that is comparing different extractions of data, by simply noting differences between different aspects of the dataset, we manage to negate some sources of bias. An easy example would be to compare countries in respect to gun control, climate change, and gender equality:
 
-![Figure 3: sentiment by country](/images/fig3.png)
-![Figure 4: sentiment by country](/images/fig4.png)
-![Figure 5: sentiment by country](/images/fig5.png)
+![Figure 3: sentiment by country](/images/fig3.jpeg)
+![Figure 4: sentiment by country](/images/fig4.jpeg)
+![Figure 5: sentiment by country](/images/fig5.jpeg)
 
 Here we observe that global warming is a subject with international english attention, while gun control is thoroughly american, this does not signify that other countries do not have discussions about gun control, but it does tell us that these are either expressed internally or absent. A quick media survey of german media will quickly show that it is the second for that country. As such, this is mostly an indicator of how international climate change is.
 
 
 Our last social group is opinion by education. The data in itself is not too interesting, apart from one point.
-![Figure 6: sentiment by education](/images/fig6.png)
+![Figure 6: sentiment by education](/images/fig6.jpeg)
 
 The amount of PhD's relative to other college degrees is overwhelming. We can only deduce that this is means they are more listened to in public discourse. The truly interesting divide would be between those who did and did not go to college, as the differences in opinion between those groups are marked, but the data is sadly lacking.
 
@@ -90,9 +90,9 @@ The amount of PhD's relative to other college degrees is overwhelming. We can on
 Finally, we look at sentiment over time:
 
 
-![Figure 7: sentiment over time](/images/fig7.png)
-![Figure 8: sentiment over time](/images/fig8.png)
-![Figure 9: sentiment over time](/images/fig9.png)
+![Figure 7: sentiment over time](/images/fig7.jpeg)
+![Figure 8: sentiment over time](/images/fig8.jpeg)
+![Figure 9: sentiment over time](/images/fig9.jpeg)
 
 We next study the sentiments of the issues over time. We look at how strongly people's opinions vary over the months and years. Clearly during certain months talk about an issue is more passionate. This could be caused by some event. For instance, after mass shootings occur, more people are likely to be more emotive on gun control. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation. 
 
