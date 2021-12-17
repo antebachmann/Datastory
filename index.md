@@ -82,7 +82,7 @@ Here we observe that global warming is a subject with international english atte
 Our last social group is opinion by education. The data in itself is not too interesting, apart from one point.
 ![Figure 6: sentiment by education](/images/fig6.jpeg)
 
-The amount of PhD's relative to other college degrees is overwhelming. We can only deduce that this is means they are more listened to in public discourse. The truly interesting divide would be between those who did and did not go to college, as the differences in opinion between those groups are marked, but the data is sadly lacking.
+The amount of Doctor's relative to other college degrees is overwhelming. We can only deduce that this is means they are more listened to in public discourse. The truly interesting divide would be between those who did and did not go to college, as the differences in opinion between those groups are marked, but the data is sadly lacking.
 
 
 ### Comparing epochs
