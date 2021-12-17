@@ -48,7 +48,7 @@ This issue is extremely divisive in the context of the united states, as the rig
 Is emotivity equal throughout the discourse, or is that dependant on subject? To answer this we look at sentiment by matter over our four chosen.
 
 
-![Figure 1: sentiment by matter](https://github.com/antebachmann/datastory/blob/gh-pages/images/fig1.png)
+![Figure 1: sentiment by matter](/images/fig1.png)
 
 We see that three issues are distributed quite negatively, and the fourth one is much more positive, this would indicate that the discourse is predominantly negative, especially as 
 
