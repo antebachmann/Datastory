@@ -19,19 +19,23 @@ We selected four highly controversial topics in the english-speaking world:
 
 ### Abortion
 
-Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. When steps are taken to achieve that effect, it is an induced abortion, but the word abortion generally refers to those procedures. Without intervention, it is generall known as miscarriage. The debate over the ethics of abortion is old, aristotle makes ethical comments on the matter in 350BCE whithin his *[Politics]*(https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D7%3Asection%3D1335b) treatise. The discussion is likely to be as old as abortion itself, which dates back to at least early antiquity, but we lack sources on the debate at the time.
+Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. When steps are taken to achieve that effect, it is an induced abortion, but the word abortion generally refers to those procedures. Without intervention, it is generall known as miscarriage. The debate over the ethics of abortion is old, aristotle makes ethical comments on the matter in 350BCE whithin his *[Politics](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D7%3Asection%3D1335b)* treatise. The discussion is likely to be as old as abortion itself, which dates back to at least early antiquity, but we lack sources on the debate at the time.
 
 Since the middle of the twentieth century, most of the western world authorizes abortions in one fashion or another, in the united states the debate is still very much ongoing, with stances ranging from treating the procedure as a form of murder to keeping it as a right for all citizens while guaranteeing its easy and safe access. 
 
 ### Climate change
 
+Climate change refers to the current warming of global temperatures caused by human activity. Scientifically, the matter is quite [cut](https://science2017.globalchange.gov/) and [dry](https://www.ipcc.ch/report/ar6/wg1/). It is happening, and if nothing is done to widely mitigate the changes it brings, the consequences will be dire. Politically, this is a different matter, where many deny the science openly, others minimize its impact, some offer little in the way of change, and others yet propose radical solutions. What must be done, which countries must do it, should anything be done at all, etc etc this is a complex issue with no political consensus.
 
+The debate has been raging since the eighties, and is unlikely to wane as we start experiencing the consequences and urgency increases.
 
 ### Gender equality
 
-
+This one hardly needs introducing, gender equality, in particular women's rights is a fight present worldwide. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
 
 ### Gun control
+
+Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously 
 
 ## The tone of discourse
 
