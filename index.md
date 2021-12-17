@@ -35,7 +35,9 @@ This one hardly needs introducing, gender equality, in particular women's rights
 
 ### Gun control
 
-Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously 
+Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously the flagship of school shooting, having multiple times the incidence of entire continents. This is widely attributed to the easy access of guns whithin the country, as is the prevalence of gun crime.
+
+
 
 ## The tone of discourse
 
