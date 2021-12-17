@@ -17,13 +17,13 @@ _In fine_, this allows us to observe sentiments by month, issue, country, gender
 
 We selected four highly controversial topics in the english-speaking world:
 
-# Abortion
+### Abortion
 
-# Climate change
+### Climate change
 
-# Gender equality
+### Gender equality
 
-# Gun control
+### Gun control
 
 ## The tone of discourse
 
