@@ -15,7 +15,7 @@ In our data story we focus on **how groups of people feel about certain issues**
 
 To test our hypothesis we use the [quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) dataset, which we filter by issue, then we run sentiment analysis on every issue, keeping years separate, finally we use [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to associate a person with each quote.
 
-_In fine_, this allows us to observe sentiments by month, issue, country, gender, and religion. Then we can observe whether the tone of discourse evolves over time, if specific groups have different attitudes, and what is the overall mood of one issue compared to another.
+_In fine_, this allows us to observe sentiments by month, issue, country, gender, and religion. Then we can observe whether the tone of discourse evolves over time, if specific groups have different attitudes, and what is the overall mood of one issue compared to another. By splitting quotes into neutral, negative and positive we achieve an idea of discourse tone.
 
 We selected four highly controversial topics in the english-speaking world:
 
@@ -42,6 +42,14 @@ Simply put, the united states of america allows most of its citizens to privatel
 This issue is extremely divisive in the context of the united states, as the right to bear arms is the second amendment of the united states constitution, the country's founding legal document.
 
 ## The tone of discourse
+
+### Comparing issues
+
+Is emotivity equal throughout the discourse, or is that dependant on subject? To answer this we look at sentiment by matter over our four chosen.
+
+
+
+
 
 Looking at the distributions of the compound scores for the different four topics, we see that humans tend to not sit on the fence. They have strong opinions and are generally firm in their beliefs. On average across the four topics, only 16.4 % of the quotes are classified as neutral quotes. These quotes could have easily been facts stated by a journalist or an expert when discussing the topic. For example, in the following quote we have Peter Atkins a chemist stating that: 'Temperatures go up every year, so we got to try and mitigate that.' He is clearly stating a fact based on observations made by scientists. He is not defending the existence of climate change in this quote and is not using extremely emotive words. 
 
