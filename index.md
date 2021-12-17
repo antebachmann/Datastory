@@ -50,20 +50,36 @@ Is emotivity equal throughout the discourse, or is that dependant on subject? To
 
 ![Figure 1: sentiment by matter](/images/fig1.png)
 
-We see that three issues are distributed quite negatively, and the fourth one is much more positive, this would indicate that the discourse is predominantly negative, especially as 
+We see that three issues are distributed quite negatively, and the fourth one is much more positive, this does not indicate that the discourse is predominantly negative, as the dataset does not represent total prevalence of discourse, and especially since global warming has 60% more quotes that the three other matters put together.
+
+Those emotional scores, or compound scores indicate that the discourse is predominantly emotional, and that neutral statements are a minority(16.4%). This is relatively unsurprising in a country with ahigh intensity of political theater with a highly polarized public. The neutral chunk of our corpus could easily be factual explanations of the situation.Peter Atkins, an eminent chemist stated : 'Temperatures go up every year, so we got to try and mitigate that.' And while that is not explicitly in favor of climate change, it is a far cry from the denialism usually adopted by one side of the conversation.
+
+This raises an important point, our work is not an evaluation of opinions, but of emotionality. There are ways to talk positively and negatively about most issues, and as such our work bears little to no correlation towards the positions of the quotees.
+
+### Comparing people
+
+As noted above, each topic tends to have their own level of emotionality, but therein a new question arises, are we all as emotional, or does that depend on our proximity to the matter? It seems obvious to us that germans, having no guns, would hardly care about gun control, while women, often given the short end of the stick and usually the beneficiaries of abortion, might be more sensitive to those issues.
 
 
-Looking at the distributions of the compound scores for the different four topics, we see that humans tend to not sit on the fence. They have strong opinions and are generally firm in their beliefs. On average across the four topics, only 16.4 % of the quotes are classified as neutral quotes. These quotes could have easily been facts stated by a journalist or an expert when discussing the topic. For example, in the following quote we have Peter Atkins a chemist stating that: 'Temperatures go up every year, so we got to try and mitigate that.' He is clearly stating a fact based on observations made by scientists. He is not defending the existence of climate change in this quote and is not using extremely emotive words. 
 
-If we look more closely at each topic, we can study how people speak about their opinions. A negative score is attributed when a quote includes words with negative conotations, as opposed to a positive score. We observe that for certain topics people tend to use more words with more negative connotation as in gun control, while more positive sentiments are expressed while talking about global warming or abortion. As for gender inequality, it seems to be relatively close. 
 
-We next study the sentiments of the issues over time. We look at how strongly people's opinions are over the months and years. Clearly during certain months there is more passionate talk about an issue. This could be caused by some event. For instance, after mass shootings occur, more people are likely to talk about gun control in a nonchalant manner. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation about gun control. 
+Do the things
+
 
 When looking at the different attributes versus the topics, we first see that different groups tend to be more interested in different topics. For instance, gun control is a huge topic in the US as opposed to Germany. While global warming is more talked about in Hindu communities versus atheists. 
 
+### Comparing epochs
 
-## What's the matter ?
 
+
+We next study the sentiments of the issues over time. We look at how strongly people's opinions are over the months and years. Clearly during certain months there is more passionate talk about an issue. This could be caused by some event. For instance, after mass shootings occur, more people are likely to talk about gun control in a nonchalant manner. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation about gun control. 
+
+Do the things
+
+## Conclusion
+
+
+In the end, blah blah blah
 
 ## Ugly markdown example
 
