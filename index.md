@@ -106,3 +106,11 @@ Though, or dataset is limited to english quotes, and quotes are only a window of
 
 
 **As a last word, our team would like to specify that the science of climate change is clear, it exists and is happening, and the feminist struggle for the equality of all genders is an admirable endeavour.**
+
+# Authors:
+
+[Antoine Bachmann](antoine.bachmann@epfl.ch)
+
+[Elza Risk](antoine.bachmann@epfl.ch)
+
+[Tikhon Parshikov](antoine.bachmann@epfl.ch)
