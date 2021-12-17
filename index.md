@@ -19,7 +19,7 @@ We selected four highly controversial topics in the english-speaking world:
 
 ### Abortion
 
-Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. When steps are taken to achieve that effect, it is an induced abortion, but the word abortion generally refers to those procedures. Without intervention, it is generall known as miscarriage. The debate over the ethics of abortion is old, aristotle makes ethical comments on the matter in 350BCE whithin his *[Politics](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D7%3Asection%3D1335b)* treatise. The discussion is likely to be as old as abortion itself, which dates back to at least early antiquity, but we lack sources on the debate at the time.
+Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. When steps are taken to achieve that effect, it is an induced abortion, but the word abortion generally refers to those procedures. Without intervention, it is generally known as miscarriage. The debate over the ethics of abortion is old, Aristotle makes ethical comments on the matter in 350BCE within his *[Politics](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D7%3Asection%3D1335b)* treatise. The discussion is likely to be as old as abortion itself, which dates back to at least early antiquity, but we lack sources on the debate at the time.
 
 Since the middle of the twentieth century, most of the western world authorizes abortions in one fashion or another, in the united states the debate is still very much ongoing, with stances ranging from treating the procedure as a form of murder to keeping it as a right for all citizens while guaranteeing its easy and safe access. 
 
@@ -35,7 +35,7 @@ This one hardly needs introducing, gender equality, in particular women's rights
 
 ### Gun control
 
-Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously the flagship of school shooting, having multiple times the incidence of entire continents. This is widely attributed to the easy access of guns whithin the country, as is the prevalence of gun crime.
+Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously the flagship of school shooting, having multiple times the incidence of entire continents. This is widely attributed to the easy access of guns within the country, as is the prevalence of gun crime.
 
 
 
