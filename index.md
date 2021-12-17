@@ -19,9 +19,17 @@ We selected four highly controversial topics in the english-speaking world:
 
 ### Abortion
 
+Abortion is the termination of a pregnancy by removal or expulsion of an embryo or fetus. When steps are taken to achieve that effect, it is an induced abortion, but the word abortion generally refers to those procedures. Without intervention, it is generall known as miscarriage. The debate over the ethics of abortion is old, aristotle makes ethical comments on the matter in 350BCE whithin his *[Politics]*(https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0058%3Abook%3D7%3Asection%3D1335b) treatise. The discussion is likely to be as old as abortion itself, which dates back to at least early antiquity, but we lack sources on the debate at the time.
+
+Since the middle of the twentieth century, most of the western world authorizes abortions in one fashion or another, in the united states the debate is still very much ongoing, with stances ranging from treating the procedure as a form of murder to keeping it as a right for all citizens while guaranteeing its easy and safe access. 
+
 ### Climate change
 
+
+
 ### Gender equality
+
+
 
 ### Gun control
 
