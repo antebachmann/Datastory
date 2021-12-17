@@ -57,7 +57,7 @@ Is emotivity equal throughout the discourse, or is that dependant on subject? To
 
 We see that three issues are distributed quite negatively, and the fourth one is much more positive, this does not indicate that the discourse is predominantly negative, as the dataset does not represent total prevalence of discourse, and especially since global warming has 60% more quotes that the three other matters put together.
 
-Those emotional scores, or compound scores indicate that the discourse is predominantly emotional, and that neutral statements are a minority(16.4%). This is relatively unsurprising as our quotes are in english, and mostly american, originationg from a country with a high intensity of political theater with a thoroughly polarized public. The neutral chunk of our corpus could easily be factual explanations of the situation.Peter Atkins, an eminent chemist stated : 'Temperatures go up every year, so we got to try and mitigate that.' And while that is not explicitly in favor of climate change, it is a far cry from the denialism usually adopted by one side of the conversation.
+Those emotional scores, or compound scores indicate that the discourse is predominantly emotional, and that neutral statements are a minority(16.4%). This is relatively unsurprising as our quotes are in english, and mostly american, originating from a country with a high intensity of political theatre with a thoroughly polarized public. The neutral chunk of our corpus could easily be factual explanations of the situation.Peter Atkins, an eminent chemist stated : 'Temperatures go up every year, so we got to try and mitigate that.' And while that is not explicitly in favour of climate change, it is a far cry from the denialism usually adopted by one side of the conversation.
 
 This raises an important point, our work is not an evaluation of opinions, but of emotionality. There are ways to talk positively and negatively about most issues, and as such our work bears little to no correlation towards the positions of the quotees.
 
@@ -70,7 +70,7 @@ As noted above, each topic tends to have their own level of emotionality, but th
 
 Looking at a gender distribution of emotions, we note that three subjects are similar, with women being slightly less neutral every time, but not by much. The interesting thing here is the jump in negativity on the gender equality issue. This is interesting, as we see that neither matter nor social group is a good predictor alone, **some groups are especially sensitive on some issues.**
 
-Another grouping one might be tempted to use is nationality, but this falls a little short, as we would need to operate over multiple languages with datasets obtained through similar methodologies to make a fair international assesment. Yet, there is an angle of analysis we can consider and that is comparing different extractions of data, by simply noting differences between different aspects of the dataset, we manage to negate some sources of bias. An easy example would be to compare countries in respect to gun control, climate change, and gender equality:
+Another grouping one might be tempted to use is nationality, but this falls a little short, as we would need to operate over multiple languages with datasets obtained through similar methodologies to make a fair international assessment. Yet, there is an angle of analysis we can consider and that is comparing different extractions of data, by simply noting differences between different aspects of the dataset, we manage to negate some sources of bias. An easy example would be to compare countries in respect to gun control, climate change, and gender equality:
 
 ![Figure 3: sentiment by country](/images/fig3.png)
 ![Figure 4: sentiment by country](/images/fig4.png)
@@ -82,7 +82,7 @@ Here we observe that global warming is a subject with international english atte
 Our last social group is opinion by education. The data in itself is not too interesting, apart from one point.
 ![Figure 6: sentiment by education](/images/fig6.png)
 
-The amount of PhD's relative to other college degrees is overwhleming. We can only deduce that this is means they are more listened to in pblic discourse. The truly interesting divide would be between tho who did and did not go to college, as the differences in opinion betwen those groups are marked, but the data is sadly lacking.
+The amount of PhD's relative to other college degrees is overwhelming. We can only deduce that this is means they are more listened to in public discourse. The truly interesting divide would be between those who did and did not go to college, as the differences in opinion between those groups are marked, but the data is sadly lacking.
 
 
 ### Comparing epochs
@@ -94,7 +94,7 @@ Finally, we look at sentiment over time:
 ![Figure 8: sentiment over time](/images/fig8.png)
 ![Figure 9: sentiment over time](/images/fig9.png)
 
-We next study the sentiments of the issues over time. We look at how strongly people's opinions vary over the months and years. Clearly during certain months talk about an issue is more passionate. This could be caused by some event. For instance, after mass shootings occur, more people are likely to be more amotive on gun control. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation. 
+We next study the sentiments of the issues over time. We look at how strongly people's opinions vary over the months and years. Clearly during certain months talk about an issue is more passionate. This could be caused by some event. For instance, after mass shootings occur, more people are likely to be more emotive on gun control. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation. 
 
 We can note other events have caused peaks of one emotion or another. Neutral quotes tend to stay a small, stable minority. Most of the variance in emotional quotes is between both emotional states.
 
@@ -103,7 +103,7 @@ An interesting observation is that the emotivity of discourse seems to evolve ve
 ## Conclusion
 
 
-To conclude, we have proven our initial hypothesis, some groups feel more strongly on certain matters than others, but those interactions are not universal, and most of the discourse analyzed here does not stray far from its baseline emotionality.
+To conclude, we have proven our initial hypothesis, some groups feel more strongly on certain matters than others, but those interactions are not universal, and most of the discourse analysed here does not stray far from its baseline emotionality.
 
 Though, or dataset is limited to english quotes, and quotes are only a window of total discourse, as such the findings here are not set in stone.
 
