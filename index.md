@@ -33,7 +33,7 @@ The debate has been raging since the eighties, and is unlikely to wane as we sta
 
 ### Gender equality
 
-This one hardly needs introducing, gender equality, in particular women's rights is a fight present worldwide through feminism. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
+This one hardly needs introducing. Gender equality. Particularly women's rights, is a fight present worldwide through feminism. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
 
 ### Gun control
 
