@@ -1,3 +1,5 @@
+# How do you think about it?
+
 ## Abstract
 
 Two subjects are consistently banned at family gatherings, politics and religion. This is because ~~everyone else is wrong~~ many of us feel very strongly about those matters, generally because we are directly affected or have a lot of self-esteem riding on "being right".
