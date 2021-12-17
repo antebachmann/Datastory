@@ -15,7 +15,15 @@ To test our hypothesis we use the [quotebank](https://dlab.epfl.ch/people/west/p
 
 _In fine_, this allows us to observe sentiments by month, issue, country, gender, and religion. Then we can observe whether the tone of discourse evolves over time, if specific groups have different attitudes, and what is the overall mood of one issue compared to another.
 
+We selected four highly controversial topics in the english-speaking world:
 
+# Abortion
+
+# Climate change
+
+# Gender equality
+
+# Gun control
 
 ## The tone of discourse
 
