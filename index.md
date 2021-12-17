@@ -31,13 +31,13 @@ The debate has been raging since the eighties, and is unlikely to wane as we sta
 
 ### Gender equality
 
-This one hardly needs introducing, gender equality, in particular women's rights is a fight present worldwide. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
+This one hardly needs introducing, gender equality, in particular women's rights is a fight present worldwide through feminism. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
 
 ### Gun control
 
 Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously the flagship of school shooting, having multiple times the incidence of entire continents. This is widely attributed to the easy access of guns within the country, as is the prevalence of gun crime.
 
-
+This issue is extremely divisive in the context of the united states, as the right to bear arms is the second amendment of the united states constitution, the country's founding legal document.
 
 ## The tone of discourse
 
