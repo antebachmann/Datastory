@@ -15,7 +15,12 @@ In our data story we focus on **how groups of people feel about certain issues**
 
 To test our hypothesis we use the [quotebank](https://dlab.epfl.ch/people/west/pub/Vaucher-Spitz-Catasta-West_WSDM-21.pdf) dataset, which we filter by issue, then we run sentiment analysis on every issue, keeping years separate, finally we use [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) to associate a person with each quote.
 
+### Sentiment analysis
+
+
+
 _In fine_, this allows us to observe sentiments by month, issue, country, gender, and religion. Then we can observe whether the tone of discourse evolves over time, if specific groups have different attitudes, and what is the overall mood of one issue compared to another. By splitting quotes into neutral, negative and positive we achieve an idea of discourse tone.
+
 
 We selected four highly controversial topics in the english-speaking world:
 
@@ -33,13 +38,13 @@ The debate has been raging since the eighties, and is unlikely to wane as we sta
 
 ### Gender equality
 
-This one hardly needs introducing. Gender equality. Particularly women's rights, is a fight present worldwide through feminism. In the western world, especially including the united states and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
+This one hardly needs introducing. Gender equality. Particularly women's rights, is a fight present worldwide through feminism. In the western world, especially in the United States and united kingdom, voting rights for women were secured in the first half of the twentieth century amongst a wealth of other individual rights. Despite this, equality [has yet to be achieved](https://actu.epfl.ch/news/talented-women-graduates-face-gender-inequality-in/) in many places. One current struggle in the US focuses on sexual harassment and violence against woman, exemplified by the Me Too movement.
 
 ### Gun control
 
 Simply put, the united states of america allows most of its citizens to privately own firearms. Individual states and cities may further restrict said rights. Overall [one third of americans own guns](https://www.rand.org/research/gun-policy/gun-ownership.html). The united states are famously the flagship of school shooting, having multiple times the incidence of entire continents. This is widely attributed to the easy access of guns within the country, as is the prevalence of gun crime.
 
-This issue is extremely divisive in the context of the united states, as the right to bear arms is the second amendment of the united states constitution, the country's founding legal document.
+This issue is extremely divisive in the context of the united states, as the right to bear arms is the second amendment of the united states constitution, the country's founding legal document. Many americans consider almost completely unrestricted firearm access to be the cornerstone of their way of life.
 
 ## The tone of discourse
 
@@ -52,7 +57,7 @@ Is emotivity equal throughout the discourse, or is that dependant on subject? To
 
 We see that three issues are distributed quite negatively, and the fourth one is much more positive, this does not indicate that the discourse is predominantly negative, as the dataset does not represent total prevalence of discourse, and especially since global warming has 60% more quotes that the three other matters put together.
 
-Those emotional scores, or compound scores indicate that the discourse is predominantly emotional, and that neutral statements are a minority(16.4%). This is relatively unsurprising in a country with ahigh intensity of political theater with a highly polarized public. The neutral chunk of our corpus could easily be factual explanations of the situation.Peter Atkins, an eminent chemist stated : 'Temperatures go up every year, so we got to try and mitigate that.' And while that is not explicitly in favor of climate change, it is a far cry from the denialism usually adopted by one side of the conversation.
+Those emotional scores, or compound scores indicate that the discourse is predominantly emotional, and that neutral statements are a minority(16.4%). This is relatively unsurprising as our quotes are in englihs, and mostly american, originationg from a country with a high intensity of political theater with a thoroughly polarized public. The neutral chunk of our corpus could easily be factual explanations of the situation.Peter Atkins, an eminent chemist stated : 'Temperatures go up every year, so we got to try and mitigate that.' And while that is not explicitly in favor of climate change, it is a far cry from the denialism usually adopted by one side of the conversation.
 
 This raises an important point, our work is not an evaluation of opinions, but of emotionality. There are ways to talk positively and negatively about most issues, and as such our work bears little to no correlation towards the positions of the quotees.
 
@@ -71,15 +76,33 @@ All three images mentioned above go here
 
 Here we observe that global warming is a subject with international english attention, while gun control is thoroughly american, this does not signify that other countries do not have discussions about gun control, but it does tell us that these are either expressed internally or absent. A quick media survey of german media will quickly show that it is the second for that country. As such, this is mostly an indicator of how international climate change is.
 
+
+Our last social group is opinion by education. The data in itself is not too interesting, apart from one point.
+
+An image or two of out education data
+
+The amount of PhD's relative to other college degrees is overwhleming. We can only deduce that this is means they are more listened to in pblic discourse. The truly interesting divide would be between tho who did and did not go to college, as the differences in opinion betwen those groups are marked, but the data is sadly lacking.
+
+
 ### Comparing epochs
 
-Finally, we look at sentiment over time, 
+Finally, we look at sentiment over time:
 
-We next study the sentiments of the issues over time. We look at how strongly people's opinions are over the months and years. Clearly during certain months there is more passionate talk about an issue. This could be caused by some event. For instance, after mass shootings occur, more people are likely to talk about gun control in a nonchalant manner. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation about gun control. 
 
-Do the things
+
+
+We next study the sentiments of the issues over time. We look at how strongly people's opinions vary over the months and years. Clearly during certain months talk about an issue is more passionate. This could be caused by some event. For instance, after mass shootings occur, more people are likely to be more amotive on gun control. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation. 
+
+We can note other events have caused peaks of one emotion or another. Neutral quotes tend to stay a small, stable minority. Most of the variance in emotional quotes is between both emotional states.
+
+An interesting observation is that the emotivity of discourse seems to evolve very slowly over time, wherein many complain that the election of Donald Trump poisoned public discourse, our data indicates that this might be more of a bias than anything.
 
 ## Conclusion
 
 
-In the end, blah blah blah
+To conclude, we have proven our initial hypothesis, some groups feel more strongly on certain matters than others, but those interactions are not universal, and most of the discourse analyzed here does not stray far from its baseline emotionality.
+
+Though, or dataset is limited to english quotes, and quotes are only a window of total discourse, as such the findings here are not set in stone.
+
+
+**As a last word, our team would like to specify that the science of climate change is clear, it exists and is happening, and the feminist struggle for the equality of all genders is an admirable endeavour.**
