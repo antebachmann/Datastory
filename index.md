@@ -19,6 +19,14 @@ _In fine_, this allows us to observe sentiments by month, issue, country, gender
 
 ## The tone of discourse
 
+Looking at the distributions of the compound scores for the different four topics, we see that humans tend to not sit on the fence. They have strong opinions and are generally firm in their beliefs. On average across the four topics, only 16.4 % of the quotes are classified as neutral quotes. These quotes could have easily been facts stated by a journalist or an expert when discussing the topic. For example, in the following quote we have Peter Atkins a chemist stating that: 'Temperatures go up every year, so we got to try and mitigate that.' He is clearly stating a fact based on observations made by scientists. He is not defending the existence of climate change in this quote and is not using extremely emotive words. 
+
+If we look more closely at each topic, we can study how people speak about their opinions. A negative score is attributed when a quote includes words with negative conotations, as opposed to a positive score. We observe that for certain topics people tend to use more words with more negative connotation as in gun control, while more positive sentiments are expressed while talking about global warming or abortion. As for gender inequality, it seems to be relatively close. 
+
+We next study the sentiments of the issues over time. We look at how strongly people's opinions are over the months and years. Clearly during certain months there is more passionate talk about an issue. This could be caused by some event. For instance, after mass shootings occur, more people are likely to talk about gun control in a nonchalant manner. On the 12th of June 2016, a mass shooting occurred in Orlando Florida. This clearly sparked the conversation about gun control. 
+
+When looking at the different attributes versus the topics, we first see that different groups tend to be more interested in different topics. For instance, gun control is a huge topic in the US as opposed to Germany. While global warming is more talked about in Hindu communities versus atheists. 
+
 
 ## What's the matter ?
 
